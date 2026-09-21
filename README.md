@@ -1,4 +1,4 @@
-# Hi! I'm Barsam Zameni 👋
+# Hi!👋
 ### 🚀 DevOps & SRE Engineer | Passionate about Automation, Reliability & Scalability
 I am a DevOps and SRE Engineer with about 3 years of professional experience. My career journey started deep in application code and evolved into managing complex infrastructures. This diverse background allows me not only to master infrastructure but also to deeply understand the needs of development teams and resolve system bottlenecks with a holistic view.
 ---
