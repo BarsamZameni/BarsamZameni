@@ -20,7 +20,8 @@ I leverage the following tools to solve complex challenges efficiently:
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&logoColor=white)
 <br>
-**CI/CD & Operations** <br>
+**CI/CD & Operations**
+<br>
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1B1C?style=for-the-badge&logo=sonatype&logoColor=white)
